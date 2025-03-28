@@ -1,6 +1,6 @@
 The collection of data crawling. 
 
-- `Memoryzone`:
+- `memoryzone.jsonl`: 
   - Number of Products: 1090
   - Language: Vietnamese (primary) and English
   - Crawling Time: March 24th 2025 -> March 26th 2025
